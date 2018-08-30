@@ -1,0 +1,44 @@
+body {
+	background-color: #809fff;
+}
+main {
+	border: 1px solid black;
+	padding: 0.5%;
+	width: 60%;
+	margin: 0 auto;
+	float: center;
+	background-color: #4d79ff;
+	box-shadow: 5px 5px 5px #3366ff;
+}
+h1 {
+	border: 2px solid black;
+	text-align: center;
+	padding: 1%;
+	background-color: #809fff;
+	box-shadow: 5px 5px 5px #0033cc;
+}
+p {
+	font-size: 1.1em;
+}
+.forvantningar {
+	border: 2px solid black;
+	padding: 1%;
+	background-color: #809fff;
+	box-shadow: 5px 5px 5px #0033cc;
+}
+.skiss {
+	margin-bottom: 10%;
+}
+img {
+	border: 2px solid black;
+	box-shadow: 5px 5px 5px #3366ff;
+}
+.reklam {
+	float: left;
+	display: inline;
+	margin-left: 0.5%;
+}
+.reklam2 {
+	float: right;
+	margin-right: 0.5%;
+}
